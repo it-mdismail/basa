@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+}
+.rounded-25{
+    border-radius: 10px !important;
+}
+/* common */
+.top-bg{
+    background-image:linear-gradient(rgba(138, 138, 138, 0.5), rgba(138, 138, 138, 0.5)),
+    url('../img/rivers.png');
+    height: 50vh;
+    background-size: cover;
+}
+.top-area{
+    background: transparent ;
+}
+/* right profile */
+.profile{
+    height: 50px;
+    width: auto;
+}
+/* right profile */
+.logo-img{
+    width: 250px;
+    height: auto;
+}
+.collapse-menu{
+    right: 100px;
+}
+.collapse-menu .btn{
+    background:#D4FFE9;
+
+}
+.modal-img img{
+    height: 70px;
+    width: auto;
+}
+.comment-sec{
+    height: 50px;
+    overflow: auto;
+}
+/* blog-post-2nd-row start */
+.blog-img{
+    height: 50vh;
+}
+.fa-square{
+    font-size: 5px;
+}
+/* blog-post-2nd-row start */
+
+/* footer start */
+.card{
+    background-image: url(../img/bg.png);
+    height: 50vh;
+    background-size: cover;
+}
+.card img{
+    width: 100px;
+    height: auto;
+}
+
+.social-media i:hover{
+    color: #fff !important;
+    background: #198754;
+}   
+/* footer end */
